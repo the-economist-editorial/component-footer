@@ -3,5 +3,7 @@ import Footer from './index.es6';
 import data from './data.js';
 
 export default (
-  <Footer contact={data.contact} company={data.company} legal={data.legal}  />
+   <div>
+     <Footer contact={data.contact} company={data.company} legal={data.legal}  />
+   </div>
 )
