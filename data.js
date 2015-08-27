@@ -1,60 +1,60 @@
 export default {
   company: [
       {
-        link_title: "Advertise",
-        link_path: "http:\/\/www.economistgroupmedia.com"
+        linkTitle: 'Advertise',
+        linkPath: 'http:\/\/www.economistgroupmedia.com',
       },
       {
-        link_title: "Reprints",
-        link_path: "http:\/\/www.economist.com\/rights\/"
+        linkTitle: 'Reprints',
+        linkPath: 'http:\/\/www.economist.com\/rights\/',
       },
       {
-        link_title: "Careers",
-        link_path: "http:\/\/jobs.economist.com"
+        linkTitle: 'Careers',
+        linkPath: 'http:\/\/jobs.economist.com',
       },
       {
-        link_title: "Editorial Staff",
-        link_path: "mediadirectory"
+        linkTitle: 'Editorial Staff',
+        linkPath: 'mediadirectory',
       },
       {
-        link_title: "Site Map",
-        link_path: "content\/site-index"
+        linkTitle: 'Site Map',
+        linkPath: 'content\/site-index',
       },
       {
-        link_title: "The Economist Group",
-        link_path: "http:\/\/www.economistgroup.com"
-      }
+        linkTitle: 'The Economist Group',
+        linkPath: 'http:\/\/www.economistgroup.com',
+      },
     ],
     contact: [
       {
-        link_title: "Subscribe",
-        link_path: "products\/subscribe"
+        linkTitle: 'Subscribe',
+        linkPath: 'products\/subscribe',
       },
       {
-        link_title: "Contact us",
-        link_path: "node\/21017280"
+        linkTitle: 'Contact us',
+        linkPath: 'node\/21017280',
       },
       {
-        link_title: "Help",
-        link_path: "node\/21013080"
-      }
+        linkTitle: 'Help',
+        linkPath: 'node\/21013080',
+      },
     ],
     legal: [
       {
-        link_title: "Accessibility",
-        link_path: "node\/21013093"
+        linkTitle: 'Accessibility',
+        linkPath: 'node\/21013093',
       },
       {
-        link_title: "Cookies",
-        link_path: "node\/21554326"
+        linkTitle: 'Cookies',
+        linkPath: 'node\/21554326',
       },
       {
-        link_title: "Privacy",
-        link_path: "http:\/\/www.economistgroup.com\/results_and_governance\/governance\/privacy"
+        linkTitle: 'Privacy',
+        linkPath: 'http:\/\/www.economistgroup.com\/results_and_governance\/governance\/privacy',
       },
       {
-        link_title: "Terms of use",
-        link_path: "node\/21010345"
-      }
-    ]
+        linkTitle: 'Terms of use',
+        linkPath: 'node\/21010345',
+      },
+    ],
   };
